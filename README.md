@@ -6,3 +6,5 @@ and providing time series plot
 and plotting all the crimes that come under High Frequency Crime Types on a map of Chicago
 
 Data set link: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2 
+
+Used:- Python:numpy, pandas,matplotlib, basemap
